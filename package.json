@@ -1,0 +1,22 @@
+{
+  "name": "quiz_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JD-Ojonugwa/quiz_app"
+  },
+  "keywords": [
+     "quiz application",
+     "javascript",
+     "html",
+     "css"
+  ],
+  "author": "joy abel",
+  "license": "ISC"
+}
