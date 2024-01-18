@@ -18,5 +18,9 @@
      "css"
   ],
   "author": "joy abel",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JD-Ojonugwa/quiz_app/issues"
+  },
+  "homepage": "https://github.com/JD-Ojonugwa/quiz_app#readme"
 }
