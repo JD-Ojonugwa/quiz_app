@@ -151,7 +151,7 @@ function chooseAnswer(e){
 
 function showScore(){
     resetState();
-    questionElement.innerHTML = `you scored ${score} out of ${questions.length}!`;
+    questionElement.innerHTML = `Joy you scored ${score} out of ${questions.length}!`;
     nextButton.innerHTML = "Try again";
     nextButton.style.display = "block";
 }
